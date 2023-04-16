@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Output of 'npm run build'
+dist/
+
+# dotenv environment variables file
+.env
